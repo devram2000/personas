@@ -54,6 +54,7 @@ h4 {
 .pstructure {
     display: flex;
     flex-flow: row;
+    padding: 50px;
 }
 
 .pdescription {
@@ -62,8 +63,9 @@ h4 {
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    padding: 50px;
+    padding: 40px;
     border: 10px dashed black;
+    margin: 10px
 }
 
 .pleft {
